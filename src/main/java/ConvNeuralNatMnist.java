@@ -41,7 +41,8 @@ public class ConvNeuralNatMnist {
     private static Logger logger= LoggerFactory.getLogger(ConvNeuralNatMnist.class);
 
     public static void main(String[] args) throws IOException {
-        String basePath=System.getProperty("java.io.tmpdir")+"/mnist/mnist_png";
+        String basePath=System.getProperty("user.home")+"/mnist_png";
+        System.out.println(basePath);
         int height=28;int width=28;
         int channels=1;// signe channel for graysacle image
         int outputNum=10;// 10 digits classification

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2c2211e-4246-4bf6-b961-d198c6c476c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConvNeuralNatMnist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConvNeuralNatMnist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MnistClassifierUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MnistClassifierUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ConvNeuralNatMnist.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ConvNeuralNatMnist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MnistClassifierUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MnistClassifierUI.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,32 +20,38 @@
     <session id="1910393625">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.48" value="1" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.53" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.71" value="1" />
           <entry key="project.open.time.73" value="1" />
           <entry key="project.open.time.74" value="1" />
           <entry key="project.open.time.94" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5706" />
+          <entry key="java" value="5735" />
           <entry key="md" value="46" />
           <entry key="xml" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5706" />
+          <entry key="JAVA" value="5735" />
           <entry key="Markdown" value="46" />
           <entry key="XML" value="72" />
         </counts>
@@ -50,11 +60,11 @@
         <counts>
           <entry key="class" value="17" />
           <entry key="csv" value="3" />
-          <entry key="java" value="26" />
+          <entry key="java" value="28" />
           <entry key="md" value="1" />
           <entry key="pom" value="2" />
           <entry key="txt" value="1" />
-          <entry key="xml" value="1" />
+          <entry key="xml" value="2" />
           <entry key="xsd" value="1" />
         </counts>
       </usages-collector>
@@ -62,33 +72,24 @@
         <counts>
           <entry key="CLASS" value="17" />
           <entry key="CSV" value="3" />
-          <entry key="JAVA" value="26" />
+          <entry key="JAVA" value="28" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="4" />
+          <entry key="XML" value="5" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ConvNeuralNatMnist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1944">
-              <caret line="72" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="895">
+              <caret line="72" column="8" lean-forward="true" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1269">
-              <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -96,23 +97,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/MnistClassifierUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="69">
+              <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="108">
-                <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-              </first_editor>
-              <second_editor />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -145,11 +140,11 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/TestDL4J.java" />
         <option value="$PROJECT_DIR$/src/main/java/TestLinearModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MnistClassifierUI.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ConvNeuralNatMnist.java" />
         <option value="$PROJECT_DIR$/src/main/java/NLPApp.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/MnistClassifierUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ConvNeuralNatMnist.java" />
       </list>
     </option>
   </component>
@@ -170,6 +165,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,22 +177,33 @@
             <path>
               <item name="dl4japp" type="b2602c69:ProjectViewProjectNode" />
               <item name="dl4japp" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dl4japp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dl4japp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dl4japp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dl4japp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554028233343" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TP-DL4J/dl4j-examples" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564298660815" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -219,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MnistClassifierUI">
+  <component name="RunManager" selected="Application.ConvNeuralNatMnist">
     <configuration name="ConvNeuralNatMnist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConvNeuralNatMnist" />
       <module name="dl4japp" />
@@ -256,8 +264,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MnistClassifierUI" />
         <item itemvalue="Application.ConvNeuralNatMnist" />
+        <item itemvalue="Application.MnistClassifierUI" />
         <item itemvalue="Application.TestLinearModel" />
         <item itemvalue="Application.TestDL4J" />
       </list>
@@ -285,25 +293,33 @@
       <workItem from="1553332697987" duration="593000" />
       <workItem from="1553506914760" duration="598000" />
       <workItem from="1554027597960" duration="134000" />
-      <workItem from="1554027770782" duration="465000" />
+      <workItem from="1554027770782" duration="1190000" />
+      <workItem from="1554136599833" duration="1186000" />
+      <workItem from="1554886930653" duration="4007000" />
+      <workItem from="1555834405256" duration="2242000" />
+      <workItem from="1556379965902" duration="244000" />
+      <workItem from="1556450899733" duration="1591000" />
+      <workItem from="1556607572891" duration="611000" />
+      <workItem from="1556780675499" duration="590000" />
+      <workItem from="1563043033875" duration="77000" />
+      <workItem from="1564298394329" duration="261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72764000" />
+    <option name="totallyTimeSpent" value="84298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21521036" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.27022654" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32903227" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32903227" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="3" />
@@ -311,7 +327,7 @@
       <window_info anchor="bottom" id="Spring" order="5" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.15161291" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.62580645" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -333,17 +349,17 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18527508" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26618123" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32903227" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Spring" order="5" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.43225807" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.32903227" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -390,23 +406,23 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/typesafe/play/play-server_2.11/2.4.8/play-server_2.11-2.4.8.jar!/play/server/Server.class" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/linear_data_eval.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="259">
           <caret line="199" column="37" lean-forward="true" selection-start-line="199" selection-start-column="2" selection-end-line="199" selection-end-column="37" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/linear_data_train.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/linear_data_train.csv">
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="162">
           <caret line="66" column="37" lean-forward="true" selection-start-line="64" selection-end-line="66" selection-end-column="37" />
         </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-data-image/1.0.0-beta3/datavec-data-image-1.0.0-beta3.jar!/org/datavec/image/recordreader/ImageRecordReader.class" />
@@ -495,40 +511,37 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/NLPApp.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ConvNeuralNatMnist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1944">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1269">
-          <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+        <state relative-caret-position="162">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MnistClassifierUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="69">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="108">
-            <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConvNeuralNatMnist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="895">
+          <caret line="72" column="8" lean-forward="true" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

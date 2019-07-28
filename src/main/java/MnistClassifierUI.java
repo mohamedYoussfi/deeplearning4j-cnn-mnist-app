@@ -41,7 +41,7 @@ import java.util.Optional;
 
 public class MnistClassifierUI extends Application {
 
-  private static final String basePath = System.getProperty("java.io.tmpdir") + "/mnist/mnist_png";
+  private static final String basePath = System.getProperty("user.home") + "/mnist_png";
   private final int canvasWidth = 256;
   private final int canvasHeight = 256;
   private MultiLayerNetwork net; // trained model
